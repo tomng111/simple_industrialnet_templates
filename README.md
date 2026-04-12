@@ -2,7 +2,8 @@
 M.Sc. Minh-Hoang Ngo, Hochschule Karlsruhe, DE.<br /><br />
 Here I upload some simple templates for the Industrial-Network courses that I taught since 2018.<br />
 These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
+Hope you could find them interesting. Have a nice day!<br /><br />
+The Practical Industrial Network Module Building Project was supervised by me in 2022.<br />
 ## Branches<br />
 - PROFINET templates
 - MODBUS templates
